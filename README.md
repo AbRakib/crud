@@ -1,4 +1,8 @@
 // brand store ajax request
+
+this is Crud with ajax jquery in laravel
+help for developers
+
         $("#brandSubmit").on("click", function (e) {
           e.preventDefault();
           let data = $("#brandForm").serialize();
